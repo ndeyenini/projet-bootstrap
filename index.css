@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.p1 {
+  background-image: url(./image/Background.png);
+  background-size: cover;
+}
+.col2 {
+  background-image: url(./image/Mask\ Group\ 17.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+
+}
+.rama
+{
+  background-image: url(./image/Background.png);
+  background-size: cover;
+}*
+
+
+.testimonials, footer{
+  background-image: url(./image/Background.png);
+  background-size: cover;
+}
+.testimonials .indicators{
+  margin-left: 60%;
+}
+.testimonials p{
+  font-size: 12px;
+}
+.mous{
+ background-image: url(./image/Background.png);
+  background-size: cover;
+}
+.mass{
+  background-image: url(./image/Background.png);
+  background-size: cover;
+  
+
+  }
+  .mohame{
+    background-image: url(./image/Background.png);
+  background-size: cover;
+  }
+.moi{
+    width: 97%;
+    background-color: rgba(49, 49, 49, 0.568);
+    margin-left: 25px;
+    margin-right: 0px;
+    border-radius: 20px;
+}
+
+.moha{
+    font-size: small;
+}
